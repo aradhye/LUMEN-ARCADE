@@ -1,256 +1,217 @@
-# 🎮 Lumen Arcade
+<div align="center">
 
-> **An immersive gaming frontend that blends cinematic game worlds with a premium iOS-inspired Liquid Glass interface.**
+# 🎮 LUMEN ARCADE
 
-Lumen Arcade is a visually immersive gaming experience designed to explore the world of gaming through interactive environments, animated worlds, quests, leaderboards, achievements, and arcade gameplay.
+### What if a gaming frontend felt like entering a game world instead of opening a website?
 
-The project focuses on creating a **premium, futuristic, and professional gaming interface** rather than a traditional dashboard. Each game world has its own visual identity, atmosphere, colors, and interactive experience.
+An immersive gaming interface where living, animated game worlds meet a premium iOS-inspired **Liquid Glass** UI.
 
----
+[
 
-Live Demo - https://aradhye.github.io/LUMEN-ARCADE/
+![Live Demo](https://img.shields.io/badge/▶_Live_Demo-Play_Now-8B5CF6?style=for-the-badge)
 
-## ✨ Preview
+](https://aradhye.github.io/LUMEN-ARCADE/)
 
-**Lumen Arcade** combines:
 
-- 🌌 Immersive animated game worlds
-- 💎 iOS-inspired Liquid Glass UI
-- 🎮 Interactive arcade gameplay
-- 🌍 Multiple unique gaming environments
-- ⚔️ Daily quests and challenges
-- 🏆 Leaderboards and rankings
-- 🎖️ Achievements and rewards
-- 📈 Player progress tracking
-- ✨ Dynamic accent colors based on selected worlds
-- 📱 Fully responsive design
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
----
 
-# 🚀 Features
 
-## 🌍 Dynamic Game Worlds
 
-Explore multiple visually unique gaming worlds, each with its own theme, atmosphere, and gameplay identity:
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 🌃 Nocturne Reach
-**Open World · Cyber Noir**
 
-A rain-soaked futuristic megacity filled with neon lights, towering buildings, and cyberpunk energy.
 
-### 🌿 Verdant Hollow
-**Co-op Survival · Glow Forest**
 
-A mysterious glowing forest where players explore, survive, and uncover its secrets.
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-### 🔥 Ashfall Citadel
-**Action RPG · Dark Fantasy**
 
-A massive fortress built inside an active volcano, surrounded by fire, lava, and ancient relics.
 
-### 🌊 Tidebreak Isles
-**Adventure · Archipelago**
 
-A world of shifting islands, oceans, exploration, and hidden underwater ruins.
+![Canvas](https://img.shields.io/badge/Canvas_API-22D3EE?style=for-the-badge)
 
-### 🪐 Orbit Zero
-**Tactical Sci-Fi · Zero Gravity**
 
-A futuristic space station floating above a mysterious ringed planet.
+
+
+![Zero Dependencies](https://img.shields.io/badge/Dependencies-Zero-success?style=for-the-badge)
+
+
+
+**[🚀 Live Demo](https://aradhye.github.io/LUMEN-ARCADE/)** · **[✨ Features](#-features)** · **[🌍 Worlds](#-game-worlds)** · **[⚡ Quick Start](#-quick-start)** · **[🗺️ Roadmap](#️-roadmap)**
+
+</div>
 
 ---
 
-# 💎 Liquid Glass UI
+## 🧭 About
 
-The interface is inspired by modern **iOS-style glassmorphism**, featuring:
+**Lumen Arcade** is a single-page gaming experience built to feel like a living game menu, not a dashboard.
 
-- Translucent glass panels
-- Advanced backdrop blur effects
-- Dynamic lighting highlights
-- Smooth borders and reflections
-- Floating UI elements
-- Soft shadows
-- Interactive hover animations
+Every world has its own atmosphere, color palette, particles and gameplay identity. When you switch worlds, the entire interface transforms with it: background, lighting, accent color and mood.
 
-The result is a clean, futuristic interface with a premium gaming aesthetic.
+**What makes it different**
 
----
-
-# 🎯 Interactive Features
-
-## 📊 Player Progress
-
-Track your progress inside each gaming world with:
-
-- Completion percentage
-- Chapter progress
-- World rating
-- Average session time
-- Best run statistics
-- Player level and XP
+- 🌌 Full-screen animated **Canvas** environments
+- 🖱️ Mouse-based **parallax** depth
+- ✨ Dynamic **particles** and atmospheric lighting
+- 🎨 **World-based accent colors** that re-theme the whole UI
+- 💎 Interactive **Liquid Glass** panels with real backdrop blur
+- 🚫 No frameworks, no build step, no dependencies
 
 ---
 
-## ⚔️ Daily Quests
+## ✨ Features
 
-Complete challenges and track your progress through interactive quest cards.
-
-Features include:
-
-- Progress bars
-- Quest completion tracking
-- Daily reset timer
-- Interactive challenge system
-
----
-
-## 🎁 Season Pass
-
-The **Static Bloom Pass** introduces a reward-based progression system where players can unlock rewards by progressing through different tiers.
+| | Feature | What you get |
+|---|---|---|
+| 🌍 | **Dynamic Worlds** | 5 unique environments, each with its own theme and mood |
+| 💎 | **Liquid Glass UI** | Translucent panels, blur, dynamic highlights, soft shadows |
+| 📊 | **Player Progress** | Completion %, chapters, world rating, session time, best runs, level and XP |
+| ⚔️ | **Daily Quests** | Progress bars, completion tracking, daily reset timer |
+| 🎁 | **Season Pass** | The *Static Bloom Pass* with tiered rewards |
+| 🏆 | **Leaderboards** | Weekly and all-time ranks, rank changes, your rank highlighted |
+| 🎖️ | **Achievements** | Interactive badge system to show off your progress |
+| 🕹️ | **Built-in Arcade** | Mini-games with scoring, rewards and best-run comparison |
+| 📱 | **Fully Responsive** | Desktop, laptop, tablet and mobile |
+| ♿ | **Accessible Motion** | Honors `prefers-reduced-motion` |
 
 ---
 
-## 🏆 Leaderboards
+## 🌍 Game Worlds
 
-Compete with other players through an interactive ranking system.
+Pick a world and the whole experience changes.
 
-The leaderboard includes:
-
-- Weekly rankings
-- All-time rankings
-- Player scores
-- Rank changes
-- Personal rank highlighting
-
----
-
-## 🎖️ Achievements
-
-Unlock achievements and showcase your progress through a visually interactive badge system.
+| World | Genre | Atmosphere |
+|---|---|---|
+| 🌃 **Nocturne Reach** | Open World · Cyber Noir | A rain-soaked megacity of neon lights and towering skyscrapers |
+| 🌿 **Verdant Hollow** | Co-op Survival · Glow Forest | A mysterious glowing forest full of secrets to uncover |
+| 🔥 **Ashfall Citadel** | Action RPG · Dark Fantasy | A massive fortress inside an active volcano, ringed by lava and ancient relics |
+| 🌊 **Tidebreak Isles** | Adventure · Archipelago | Shifting islands, open oceans and hidden underwater ruins |
+| 🪐 **Orbit Zero** | Tactical Sci-Fi · Zero Gravity | A space station drifting above a mysterious ringed planet |
 
 ---
 
-# 🕹️ Interactive Arcade
+## 🎯 Core Systems
 
-Lumen Arcade also includes an interactive arcade experience directly inside the interface.
+### 📊 Player Progress
+Track every world with completion percentage, chapter progress, world rating, average session time, best run and your player level and XP.
 
-Players can:
+### ⚔️ Daily Quests
+Interactive quest cards with progress bars and completion tracking. Quests reset on a daily countdown, so there's always a reason to come back.
 
-- Open the arcade from the navigation dock
-- Play interactive mini-games
-- Track their score
+### 🎁 Season Pass
+Progress through the **Static Bloom Pass** and unlock rewards tier by tier.
+
+### 🏆 Leaderboards
+Switch between **Weekly** and **All-time** rankings. See scores, rank movement and your own position highlighted.
+
+### 🕹️ Interactive Arcade
+Open the arcade from the **bottom navigation dock** to:
+
+- Play mini-games
+- Track your live score
 - Collect rewards
-- Compare their best runs
+- Beat your best run
 
 ---
 
-# 🎨 Design Philosophy
+## 🎨 Design Philosophy
 
-The goal of Lumen Arcade was to answer one question:
+> Make the interface feel like a place, not a page.
 
-> **What if a gaming frontend felt like entering a game world instead of opening a website?**
-
-Instead of using static backgrounds and traditional cards, the interface creates a living environment using:
-
-- Animated Canvas backgrounds
-- Parallax effects
-- Dynamic particles
-- Atmospheric lighting
-- World-specific color themes
-- Interactive glass elements
-
-Every selected world changes the overall visual experience.
+| Principle | How it's done |
+|---|---|
+| **Atmosphere first** | Animated canvas backgrounds unique to each world |
+| **Depth** | Mouse parallax and layered glass elements |
+| **Identity** | Every world carries its own color and mood |
+| **Restraint** | Glass and glow used with purpose, not everywhere |
+| **Comfort** | Reduced-motion support and readable contrast |
 
 ---
 
-# 🛠️ Technologies Used
+## 🛠️ Tech Stack
 
 | Technology | Purpose |
 |---|---|
-| **HTML5** | Application structure |
-| **CSS3** | UI, animations, responsiveness and Liquid Glass effects |
-| **JavaScript** | Interactivity and dynamic functionality |
-| **Canvas API** | Animated game environments and visual effects |
-| **Local Storage** | Saving selected player interactions |
+| **HTML5** | App structure |
+| **CSS3** | Liquid Glass effects, animations, responsive layout |
+| **Vanilla JavaScript** | Interactivity and app logic |
+| **Canvas API** | Animated worlds, particles, visual effects |
+| **localStorage** | Saves player interactions and progress |
 | **Google Fonts** | Typography |
 
 ---
 
-# 📱 Responsive Design
+## ⚡ Quick Start
 
-Lumen Arcade is designed to work across different screen sizes.
+```bash
+# 1. Clone the repository
+git clone https://github.com/aradhye/LUMEN-ARCADE.git
 
-✅ Desktop  
-✅ Laptop  
-✅ Tablet  
-✅ Mobile  
+# 2. Enter the project folder
+cd LUMEN-ARCADE
 
-The layout automatically adapts for smaller screens while preserving the immersive gaming experience.
+# 3. Open index.html in your browser
+```
 
----
-
-# ✨ Key UI Highlights
-
-- 🫧 iOS-inspired Liquid Glass design
-- 🌌 Full-screen animated game environments
-- 🖱️ Interactive mouse-based parallax
-- 🎨 Dynamic world-based accent colors
-- 💫 Smooth transitions and hover effects
-- 📱 Mobile-friendly navigation
-- 🎮 Interactive arcade modal
-- 🧭 Bottom navigation dock
-- ♿ Reduced-motion accessibility support
+**Recommended:** use the **Live Server** extension in VS Code. Right-click `index.html` and choose **Open with Live Server**.
 
 ---
 
-# 📂 Project Structure
+## 🎮 How to Play
 
-```text
-Lumen-Arcade/
-│
-├── index.html
-│
+1. Open **Lumen Arcade**
+2. Choose a world and watch the environment transform
+3. Check your progress, level and XP
+4. Complete **daily quests** before the timer resets
+5. Climb the **leaderboard** and unlock **achievements**
+6. Open the **arcade** from the dock and beat your best run
+
+---
+
+## 📂 Project Structure
+
+```
+LUMEN-ARCADE/
+├── index.html    # Markup, styles and scripts
 └── README.md
 ```
 
-The project is built as a lightweight frontend experience with the main interface, styling, animations, and functionality integrated into the application.
+---
+
+## 🗺️ Roadmap
+
+- [ ] Split CSS and JavaScript into separate files
+- [ ] Ambient sound design for each world
+- [ ] More arcade mini-games
+- [ ] Cloud-synced profiles and real leaderboards
+- [ ] Keyboard and gamepad navigation
+- [ ] PWA support for installing on mobile
 
 ---
 
-# 🚀 Getting Started
+## 🤝 Contributing
 
-### 1. Clone the repository
+Ideas and improvements are welcome.
 
-```bash
-git clone https://github.com/YOUR-USERNAME/lumen-arcade.git
-```
-
-### 2. Navigate to the project folder
-
-```bash
-cd lumen-arcade
-```
-
-### 3. Run the project
-
-Simply open:
-
-```text
-index.html
-```
-
-in your browser.
-
-For the best development experience, you can use **VS Code Live Server**.
+1. Fork the repo
+2. Create a branch: `git checkout -b feature/your-idea`
+3. Commit: `git commit -m "Add your idea"`
+4. Push: `git push origin feature/your-idea`
+5. Open a Pull Request
 
 ---
 
-# 🎮 How to Use
+## 📄 License
 
-1. Open **Lumen Arcade**
-2. Explore the available game worlds
-3. Select a world to change the environment
-4. Track your game progress
-5. Complete daily quests
-6. View your rank and achievements
-7. Open the arcade and play
+Released under the **MIT License**.
+
+---
+
+<div align="center">
+
+**Enjoyed stepping into the worlds of Lumen Arcade? Leave a ⭐ on the repo.**
+
+Built by [@aradhye](https://github.com/aradhye)
+
+</div>
