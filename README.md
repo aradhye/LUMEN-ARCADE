@@ -8,6 +8,8 @@ The project focuses on creating a **premium, futuristic, and professional gaming
 
 ---
 
+Live Demo - https://aradhye.github.io/LUMEN-ARCADE/
+
 ## ✨ Preview
 
 **Lumen Arcade** combines:
